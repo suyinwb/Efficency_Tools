@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Mac Files
+*DS_Store
 
-# Ada Library Information
-*.ali
+# WIP Jupyter Notebooks
+*checkpoints*
