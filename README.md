@@ -16,13 +16,15 @@ Use this to:
 - remove audio from mp4 files
 
 
-2. Convert PDF pages to PNG individual images
+2. Image Manipulation
 
 Install
 
 ```
 brew install pdf2image
 ```
+use this to:
+- converting pdf to png individual files
 
 3. when Mac screen capture is not default settings. Go to terminal and reset it with:
 ```
