@@ -40,6 +40,7 @@ Use this to:
 - converting pdf to png individual files
 
 
+
 4. when Mac screen capture is not default settings. Go to terminal and reset it with:
 ```
 defaults write com.apple.screencapture type JPG
